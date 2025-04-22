@@ -1,0 +1,54 @@
+{
+  "ProfileInfo": {
+    "name": "Dino Jazvin",
+    "url": "https://media.licdn.com/dms/image/v2/D5635AQG01prruduH0g/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1732162542384?e=1745870400&v=beta&t=ZnnJ2aWlb2vPthbKM8iXwJqcYjgTC0sKCNvYqPEHC3g"
+  },
+  "workExperience": [
+    {
+      "title": "Frontend Software Engineer",
+      "company": "Sprowt",
+      "dates": "Apr 2024 - Present · 1 yr 1 mo",
+      "location": "New York, New York, United States · Remote",
+      "descriptionRaw": "- Collaborate on a 4-person engineering team, working closely with 2 backend engineers to seamlessly integrate front-end features with backend functionality\n- Develop a dynamic and responsive tutoring platform website from Figma\ndesigns using Next.js, React, and Tailwind CSS, supporting 25 students and 15 tutors\n- Created 10+ reusable React components, streamlining development and ensuring a\nconsistent UI across the website."
+    },
+    {
+      "title": "Mathematics Teacher",
+      "company": "C2 Education",
+      "dates": "Jul 2021 - Present · 3 yrs 10 mos",
+      "location": "Issaquah, Washington, United States · On-site",
+      "descriptionRaw": "-Instructed high school students in Algebra, Pre-Calculus, and Trigonometry in a 3:1 student-teacher ratio, focusing on strengthening core math concepts and improving academic performance.\n-Successfully coached students to achieve substantial score improvements, with an average SAT score increase of 200-300 points and an average ACT score increase of 10 points through targeted preparation and personalized guidance.\n-Helped high school students in achieving admission to top universities and colleges through focused academic guidance and test preparation, fostering academic success and college readiness."
+    },
+    {
+      "title": "Full Stack Developer",
+      "company": "Frigate",
+      "dates": "Jul 2023 - Dec 2023 · 6 mos",
+      "location": "United Kingdom · Remote",
+      "descriptionRaw": "- Developed 3 front-end features using FlutterFlow, working closely with a full-stack team of 6 engineers to create a seamless, responsive user experience\n- Designed and implemented 2 RESTful APIs for mobile app features using Java and Spring Boot, ensuring seamless integration with front-end components and improving performance across the application.\n- Developed a fraud identification model with a 90% success rate by applying generative learning algorithms within the ML/AI team, using Python Pandas Library for data manipulation and model development."
+    },
+    {
+      "title": "Undergraduate Student Researcher (through UW Tacoma)",
+      "company": "Microsoft",
+      "dates": "Sep 2021 - Dec 2021 · 4 mos",
+      "location": null,
+      "descriptionRaw": "- Worked on text detection and road length detection tools to compare geospatial data accuracy across Google Maps, Bing Maps, and OpenStreetMap (OSM) at different zoom levels.\n- Conducted detailed data analysis by evaluating text recognition and road length data, providing insights into the accuracy and consistency of each mapping service across various geographic locations.\n- Co-authored a research paper, published in an IEEE journal, contributing to advancements in mapping data accuracy and tool development."
+    }
+  ],
+  "education": [
+    {
+      "school": "University of Washington Tacoma",
+      "degree": "Bachelor's degree, Computer Science",
+      "dates": "Mar 2021 - Mar 2022",
+      "grade": "3.56",
+      "courses": "Major courses include: Design and Analysis of Algorithms, Data Structures, Operating Systems, Software Development and Quality Assurance Techniques, and Discrete Mathematics.",
+      "skills": "C (Programming Language) · Java · SQL · Agile Software Development · Git · Python (Programming Language) · Software Development · Java Swing · Version Control · React.js · Game Development · GitHub · Object-Oriented Programming (OOP)"
+    },
+    {
+      "school": "University of Washington Tacoma",
+      "degree": "Bachelor's degree, Electrical and Electronics Engineering",
+      "dates": "Jan 2015 - Jun 2019",
+      "grade": "3.3",
+      "courses": "Major courses include: Control Systems, Electromagnetics, Digital Signal Processing, Integrated Circuit Design, Power Engineering, Computer Architecture, Digital Systems Design, Electronics and Analog Circuits.",
+      "skills": "JavaScript"
+    }
+  ]
+}
